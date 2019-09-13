@@ -1,8 +1,8 @@
 # 简单获取bing主页背景美图链接
 ## bing[https://www.bing.com]
 
-```image.json
-{
+```
+get the json for image: {
   url,//链接
   copyright,//版权
   title,//标题
