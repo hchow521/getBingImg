@@ -1,0 +1,11 @@
+{
+  "name": "get-bing-img",
+  "version": "1.0.0",
+  "description": "the app is to capture Bing's beautiful pictures",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "hchow <hchow521@163.com>",
+  "license": "UNLICENSED"
+}
