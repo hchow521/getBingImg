@@ -7,5 +7,8 @@
     "test": "node index.js"
   },
   "author": "hchow <hchow521@163.com>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
