@@ -10,7 +10,8 @@ get the json for image: {
 }
 
 ```
-
+### first run app
+`>npm install`
 ### app run
 ```
 >npm test
